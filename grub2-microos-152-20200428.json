@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "width": 250,
+      "xpos": 0,
+      "ypos": 0,
+      "type": "match",
+      "height": 280
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-microos",
+    "ENV-VERSION-15.2",
+    "autoyast-boot",
+    "bootloader",
+    "bootloader-grub2",
+    "grub2"
+  ]
+}
